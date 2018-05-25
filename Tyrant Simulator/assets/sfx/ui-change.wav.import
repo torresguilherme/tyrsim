@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ui-change.wav-024c25bd0fe4e0796389ee1fa13d3465.sample"
+
+[deps]
+
+source_file="res://assets/sfx/ui-change.wav"
+source_md5="9839dc0d08df210ab6370bc32011d341"
+
+dest_files=[ "res://.import/ui-change.wav-024c25bd0fe4e0796389ee1fa13d3465.sample" ]
+dest_md5="341330a94b53e5524245905716b0903c"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
